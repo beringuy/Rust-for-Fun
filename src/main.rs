@@ -1,5 +1,6 @@
 use polars::prelude::*;
 
+// teste
 
 fn main() {
     // Rust in Visual Studio Code : [https://code.visualstudio.com/docs/languages/rust]
